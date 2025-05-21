@@ -1,0 +1,23 @@
+customer_id,name,email,phone,address,registration_date,status
+1,John Doe,john.doe@example.com,555-1234,123 Elm St,2022-01-15,Active
+2,Jane Smith,jane.smith@example.com,555-5678,456 Oak St,2021-11-20,Active
+3,Michael Brown,michael.brown@example.com,555-8765,789 Pine St,2023-02-10,Inactive
+4,Emily Davis,emily.davis@example.com,555-4321,321 Maple St,2022-05-05,Active
+5,David Wilson,david.wilson@example.com,555-2468,654 Cedar St,2021-09-12,Active
+6,Sarah Johnson,,555-1357,987 Birch St,2022-07-18,Inactive
+7,Chris Lee,chris.lee@example.com,555-9753,159 Spruce St,2023-01-22,Active
+8,Amanda Clark,amanda.clark@example,555-8642,753 Willow St,2022-03-30,Active
+9,Matthew Hall,matthew.hall@example.com,555-7531,852 Aspen St,2021-12-25,Inactive
+10,Jessica Young,jessica.young@example.com,555-1597,951 Poplar St,2022-09-14,Active
+11,Daniel King,daniel.king@example.com,555-9513,357 Chestnut St,2022-10-01,Active
+12,Laura Wright,laura.wright@example.com,555-3579,258 Walnut St,2021-08-19,Inactive
+13,James Scott,james.scott@example.com,555-2581,654 Redwood St,2022-11-11,Active
+14,Olivia Green,olivia.green@example.com,555-3698,147 Cypress St,2023-03-05,Active
+15,Benjamin Adams,benjamin.adams@example.com,555-7412,369 Magnolia St,2022-12-20,Active
+16,Grace Baker,grace.baker@example.com,555-8426,951 Hickory St,2021-10-30,Inactive
+17,Samuel Nelson,samuel.nelson@example.com,555-6842,753 Palm St,2022-06-25,Active
+18,Victoria Carter,victoria.carter@example.com,555-4268,258 Sycamore St,2023-01-10,Active
+19,Andrew Mitchell,andrew.mitchell@example.com,555-2684,147 Alder St,2022-08-15,Active
+20,Chloe Perez,chloe.perez@example.com,555-6841,369 Dogwood St,2021-07-22,Inactive
+21,John Doe,john.doe@example.com,555-1234,123 Elm St,2022-01-15,Active
+22,,noemail@,555-0000,,2022-03-01,Inactive

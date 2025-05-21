@@ -1,0 +1,23 @@
+product_id,product_name,category,price,stock_quantity
+1,Wireless Mouse,Electronics,25.99,150
+2,USB Keyboard,Electronics,19.99,120
+3,HD Monitor,Electronics,149.99,80
+4,Desk Lamp,Furniture,34.99,60
+5,Office Chair,Furniture,89.99,40
+6,Notebook,Stationery,2.99,500
+7,Ballpoint Pen,Stationery,0.99,1000
+8,Water Bottle,Accessories,12.99,200
+9,Backpack,Accessories,39.99,90
+10,Smartphone,Electronics,399.99,30
+11,Tablet,Electronics,299.99,25
+12,Desk Organizer,Furniture,15.99,70
+13,Sticky Notes,Stationery,1.99,600
+14,File Cabinet,Furniture,129.99,20
+15,Headphones,Electronics,59.99,55
+16,Mouse Pad,Accessories,5.99,300
+17,Whiteboard,Stationery,24.99,35
+18,Printer,Electronics,89.99,18
+19,Paper Ream,Stationery,4.99,400
+20,Desk Clock,Accessories,14.99,80
+21,wireless mouse,Electronics,25.99,150
+22,,Unknown,0.00,0

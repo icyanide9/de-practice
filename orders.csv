@@ -1,0 +1,23 @@
+order_id,customer_id,order_date,order_amount,order_status,payment_method
+1001,1,2023-01-10,120.97,Completed,Credit Card
+1002,2,2023-01-12,59.98,Completed,PayPal
+1003,3,2023-01-15,399.99,Pending,Credit Card
+1004,4,2023-01-18,89.99,Completed,Debit Card
+1005,5,2023-01-20,15.97,Cancelled,Credit Card
+1006,6,2023-01-22,299.99,Completed,PayPal
+1007,7,2023-01-25,24.99,Completed,Credit Card
+1008,8,2023-01-28,149.99,Pending,Debit Card
+1009,9,2023-02-01,34.99,Completed,Credit Card
+1010,10,2023-02-03,59.98,Completed,PayPal
+1011,11,2023-02-05,89.99,Completed,Credit Card
+1012,12,2023-02-08,12.99,Completed,Debit Card
+1013,13,2023-02-10,25.99,Pending,Credit Card
+1014,14,2023-02-12,299.99,Completed,PayPal
+1015,15,2023-02-15,39.99,Completed,Debit Card
+1016,16,2023-02-18,4.99,Completed,Credit Card
+1017,17,2023-02-20,149.99,Completed,PayPal
+1018,18,2023-02-22,399.99,Pending,Debit Card
+1019,19,2023-02-25,2.99,Completed,Credit Card
+1020,20,2023-02-28,129.99,Completed,PayPal
+1021,1,2023-01-10,120.97,Completed,Credit Card
+1022,21,2023-03-01,0.00,Unknown,
